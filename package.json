@@ -16,5 +16,13 @@
   "description": "Assignment10",
   "main": "app.js",
   "author": "Sowjanyai Kalyanam",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sowjanyakalyanam/f2wb15kalyanam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sowjanyakalyanam/f2wb15kalyanam/issues"
+  },
+  "homepage": "https://github.com/Sowjanyakalyanam/f2wb15kalyanam#readme"
 }
